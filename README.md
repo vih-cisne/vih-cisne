@@ -40,9 +40,9 @@
 
 <div><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vih-cisne&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vih-cisne&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vih-cisne&layout=compact&theme=radical&langs_count=5"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vih-cisne&layout=compact&theme=omni&langs_count=5"/>
 
 </div>
 
