@@ -1,22 +1,22 @@
 <div style="display: flex; align-items: center; justify-content: center"><br>
 
-  <div style="padding: 40px">
+  <div align="left" style="padding: 40px">
 
   <div>
     <h1>Hi there, i'm Vitoria Cisne!</h1>
     <p>
     <div style="display: flex; align-items: center; gap: 10px">
-    <div style="width: 50px">
+    <div>
 
-![Tech](src/images/animation_500_l62u6xl1.gif)
+<img  alt="Ana-Js" width="50" src="src/images/animation_500_l62u6xl1.gif">
 
   </div> <p>I’m currently working in Tech coach</p>
     </div>
 
   <div style="display: flex; align-items: center; gap: 10px">
-  <div style="width: 50px">
+  <div>
 
-![Tech](src/images/animation_500_l62uv293.gif)
+<img  alt="Ana-Js"  width="50" src="src/images/animation_500_l62uv293.gif">
 
   </div> <p>I’m currently learning Node JS and Python</p>
     </div>
@@ -49,13 +49,14 @@
 
 <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-  </div>
+</div>
 
-  <div style="width: 30%">
+  <div align="right" style="width: 30%">
 
-![Saying hi](src/images/animation_500_l62s7ax3.gif)
+<img alt="Ana-Tail" width="200" src="src/images/animation_500_l62s7ax3.gif" />
 
   </div>
 </div>
