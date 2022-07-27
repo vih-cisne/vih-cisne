@@ -1,29 +1,19 @@
-<div style="display: flex; align-items: center; justify-content: center"><br>
 
-  <div align="left" style="padding: 40px">
 
   <div>
-    <h1>Hi there, i'm Vitoria Cisne!</h1>
-    <p>
-    <div style="display: flex; align-items: center; gap: 10px">
+    <h1>Hi there, i'm Vitoria Cisne!<img align="right" alt="Hi" width="200" src="src/images/animation_500_l62s7ax3.gif" /></h1>
     <div>
-
-<img  alt="Ana-Js" width="50" src="src/images/animation_500_l62u6xl1.gif">
-
-  </div> <p>I’m currently working in Tech coach</p>
+    <img align="left" alt="Ana-Js" width="50" src="src/images/animation_500_l62u6xl1.gif">
+    <p>I’m currently working in Tech coach</p>
     </div>
-
-  <div style="display: flex; align-items: center; gap: 10px">
-  <div>
-
-<img  alt="Ana-Js"  width="50" src="src/images/animation_500_l62uv293.gif">
-
-  </div> <p>I’m currently learning Node JS and Python</p>
+    <div>
+    <img align="left"  alt="Ana-Js"  width="50" src="src/images/animation_500_l62uv293.gif">
+    <p>I’m currently learning Node JS and Python</p>
     </div>
-   </p>
   </div>
 
-  <div style="display: flex">
+
+  <div style="display:flex" height="40">
   <img  alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -39,10 +29,9 @@
   <img  alt="Ana-Node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
   <img alt="Ana-Tail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  </div>
+</div>
 
-  <div style="margin-top: 30px; display: flex">
-
+<div style="display:flex">
 <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -52,16 +41,8 @@
 <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-</div>
 
-  <div align="right" style="width: 30%">
-
-<img alt="Ana-Tail" width="200" src="src/images/animation_500_l62s7ax3.gif" />
-
-  </div>
-</div>
-
-<div style="display: flex; gap: 1rem; justify-content: center">
+<div>
 
   <img src="https://github-readme-stats.vercel.app/api?username=vih-cisne&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
