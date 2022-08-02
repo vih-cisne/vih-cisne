@@ -2,16 +2,17 @@
 
   <div>
     <h1>Hi there, i'm Vitoria Cisne!<img align="right" alt="Hi" width="200" src="src/images/animation_500_l62s7ax3.gif" /></h1>
-    <div>
-    <img align="left" alt="Ana-Js" width="60" src="src/images/animation_500_l62u6xl1.gif">
-    <p>I’m currently working on Tech coaching</p><p>I’m currently learning Node JS and Python</p>
-  </div>
+    
+      
   
   <a href="https://ana-cisne.vercel.app/">Meu website</a>
  
 
 
   <div style="display:flex" height="40"><br>
+  <p>I’m currently working on Tech coaching</p>
+      <p>I’m currently learning Node JS and Python</p>
+      <img alt="tech" width="60" src="src/images/animation_500_l62u6xl1.gif">
   <img  alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
