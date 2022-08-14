@@ -12,12 +12,18 @@
   <div style="display:flex" height="40"><br>
   <p>I’m currently working on Tech coaching</p>
       <p>I’m currently learning Node JS and Python</p>
-      <img alt="tech" width="60" src="src/images/animation_500_l62u6xl1.gif">
+      
   <img  alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
   <img alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+  <img height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" />
+
+  <img height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" />
+
+  <img height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />
 
   <img alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
