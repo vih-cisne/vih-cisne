@@ -19,9 +19,7 @@
 
   <img alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" />
-
-  <img height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" />
+  <img height="35" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
 
   <img height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" />
 
