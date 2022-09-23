@@ -10,7 +10,7 @@
 
 
   <div style="display:flex" height="40"><br>
-  <p>I’m currently working on Tech coaching</p>
+  <p>I’m a trainee developer</p>
       <p>I’m currently learning Node JS and Python</p>
       
   <img  alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
